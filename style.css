@@ -1,16 +1,17 @@
 * {
-    margin: 0;
-    padding: 0;
     box-sizing: border-box;
 }
 
 .container {
     display: flex;
     justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
-img {
+.container img {
     height: 738.391px;
     width: 1162.86px;
+    border-radius: 50px;
 
 }
